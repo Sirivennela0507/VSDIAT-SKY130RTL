@@ -1,2 +1,0 @@
-RTL Design Workshop reorganized for SIRI VENNELA.
-Reference images retained; README content rewritten independently.
