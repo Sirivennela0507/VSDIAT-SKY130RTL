@@ -38,5 +38,5 @@ RTL_Design_Workshop/
 
 ## Author
 
-**Rizwana** — B.Tech ECE, Anurag University
+**SIRI VENNELA** — B.Tech ECE, Anurag University
 
