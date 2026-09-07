@@ -1,6 +1,6 @@
 📎RTL TO GATE-LEVEL SYNTHESIS AND GLS – SEQUENCE DETECTOR
 
-📎PROJECT OVERVIEW This repository documents the complete work completed for assessment 25eg504h50, from the initial RTL design through functional simulation, synthesis, post-synthesis/Gate-Level Simulation (GLS), waveform analysis, and RTL-vs-GLS verification.
+📎PROJECT OVERVIEW This repository documents the complete work completed for assessment 25eg504h02, from the initial RTL design through functional simulation, synthesis, post-synthesis/Gate-Level Simulation (GLS), waveform analysis, and RTL-vs-GLS verification.
 
 📎COMPLETE FLOW RTL Design ↓ Functional / Pre-Synthesis Simulation ↓ RTL Waveform Verification ↓ Logic Synthesis ↓ Synthesized Gate-Level Netlist ↓ Post-Synthesis / Gate-Level Simulation (GLS) ↓ GLS Waveform Verification ↓ RTL vs GLS Comparison ↓ Final Functional Conclusion
 
@@ -198,7 +198,7 @@ Verilog-RTL design and testbench Icarus Verilog (iverilog)-RTL/GLS compilation v
 
 📎17. IMPORTANT COMMANDS •Check project files ls •Check testbench ls tb cat tb/tb.v •Check synthesized module grep -n "module sequence_detector" synthesized.v •Find SKY130 model issue grep -n 'wire 1' /home/vsduser/BabySoC_Simulation/src/gls_model/sky130_fd_sc_hd.v | head •Make local model copy cp/home/vsduser/BabySoC_Simulation/src/gls_model/sky130_fd_sc_hd.v ./sky130_fd_sc_hd_gls.v •Correct invalid declaration sed -i -E 's/^[[:space:]]wire[[:space:]]+1[[:space:]];/ wire one;/' sky130_fd_sc_hd_gls.v •Verify correction grep -n 'wire 1|wire one' sky130_fd_sc_hd_gls.v | head •Compile GLS iverilog -g2012 -o gls_sim.out tb/tb.v synthesized.v sky130_fd_sc_hd_gls.v •Run GLS vvp gls_sim.out •Open waveform gtkwave dump.vcd
 
-ASSESSMENT SUMMARY Assessment ID: 25eg504h50
+ASSESSMENT SUMMARY Assessment ID: 25eg504h02
 Design: Sequence Detector
 
 Completed work:
