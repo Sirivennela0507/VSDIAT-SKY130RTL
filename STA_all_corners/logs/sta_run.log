@@ -1,0 +1,143 @@
+OpenROAD v2.0-25794-g7cbd77e248 
+Features included (+) or not (-): +GPU +GUI +Python
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+Found 16 Liberty corner files.
+Defined 16 timing corners.
+Loaded Liberty: ff_100C_1v65
+Loaded Liberty: ff_100C_1v95
+Loaded Liberty: ff_n40C_1v56
+Loaded Liberty: ff_n40C_1v65
+Loaded Liberty: ff_n40C_1v76
+Loaded Liberty: ff_n40C_1v95
+Loaded Liberty: ss_100C_1v40
+Loaded Liberty: ss_100C_1v60
+Loaded Liberty: ss_n40C_1v28
+Loaded Liberty: ss_n40C_1v35
+Loaded Liberty: ss_n40C_1v40
+Loaded Liberty: ss_n40C_1v44
+Loaded Liberty: ss_n40C_1v60
+Loaded Liberty: ss_n40C_1v76
+Loaded Liberty: tt_025C_1v80
+Loaded Liberty: tt_100C_1v80
+
+========================================
+CORNER: ff_100C_1v65
+LIBRARY: sky130_fd_sc_hd__ff_100C_1v65.lib
+========================================
+Validated non-empty reports for ff_100C_1v65.
+Finished processing ff_100C_1v65
+
+========================================
+CORNER: ff_100C_1v95
+LIBRARY: sky130_fd_sc_hd__ff_100C_1v95.lib
+========================================
+Validated non-empty reports for ff_100C_1v95.
+Finished processing ff_100C_1v95
+
+========================================
+CORNER: ff_n40C_1v56
+LIBRARY: sky130_fd_sc_hd__ff_n40C_1v56.lib
+========================================
+Validated non-empty reports for ff_n40C_1v56.
+Finished processing ff_n40C_1v56
+
+========================================
+CORNER: ff_n40C_1v65
+LIBRARY: sky130_fd_sc_hd__ff_n40C_1v65.lib
+========================================
+Validated non-empty reports for ff_n40C_1v65.
+Finished processing ff_n40C_1v65
+
+========================================
+CORNER: ff_n40C_1v76
+LIBRARY: sky130_fd_sc_hd__ff_n40C_1v76.lib
+========================================
+Validated non-empty reports for ff_n40C_1v76.
+Finished processing ff_n40C_1v76
+
+========================================
+CORNER: ff_n40C_1v95
+LIBRARY: sky130_fd_sc_hd__ff_n40C_1v95.lib
+========================================
+Validated non-empty reports for ff_n40C_1v95.
+Finished processing ff_n40C_1v95
+
+========================================
+CORNER: ss_100C_1v40
+LIBRARY: sky130_fd_sc_hd__ss_100C_1v40.lib
+========================================
+Validated non-empty reports for ss_100C_1v40.
+Finished processing ss_100C_1v40
+
+========================================
+CORNER: ss_100C_1v60
+LIBRARY: sky130_fd_sc_hd__ss_100C_1v60.lib
+========================================
+Validated non-empty reports for ss_100C_1v60.
+Finished processing ss_100C_1v60
+
+========================================
+CORNER: ss_n40C_1v28
+LIBRARY: sky130_fd_sc_hd__ss_n40C_1v28.lib
+========================================
+Validated non-empty reports for ss_n40C_1v28.
+Finished processing ss_n40C_1v28
+
+========================================
+CORNER: ss_n40C_1v35
+LIBRARY: sky130_fd_sc_hd__ss_n40C_1v35.lib
+========================================
+Validated non-empty reports for ss_n40C_1v35.
+Finished processing ss_n40C_1v35
+
+========================================
+CORNER: ss_n40C_1v40
+LIBRARY: sky130_fd_sc_hd__ss_n40C_1v40.lib
+========================================
+Validated non-empty reports for ss_n40C_1v40.
+Finished processing ss_n40C_1v40
+
+========================================
+CORNER: ss_n40C_1v44
+LIBRARY: sky130_fd_sc_hd__ss_n40C_1v44.lib
+========================================
+Validated non-empty reports for ss_n40C_1v44.
+Finished processing ss_n40C_1v44
+
+========================================
+CORNER: ss_n40C_1v60
+LIBRARY: sky130_fd_sc_hd__ss_n40C_1v60.lib
+========================================
+Validated non-empty reports for ss_n40C_1v60.
+Finished processing ss_n40C_1v60
+
+========================================
+CORNER: ss_n40C_1v76
+LIBRARY: sky130_fd_sc_hd__ss_n40C_1v76.lib
+========================================
+Validated non-empty reports for ss_n40C_1v76.
+Finished processing ss_n40C_1v76
+
+========================================
+CORNER: tt_025C_1v80
+LIBRARY: sky130_fd_sc_hd__tt_025C_1v80.lib
+========================================
+Validated non-empty reports for tt_025C_1v80.
+Finished processing tt_025C_1v80
+
+========================================
+CORNER: tt_100C_1v80
+LIBRARY: sky130_fd_sc_hd__tt_100C_1v80.lib
+========================================
+Validated non-empty reports for tt_100C_1v80.
+Finished processing tt_100C_1v80
+
+========================================
+MULTICORNER STA SUMMARY
+Corners found: 16
+Corners successful: 16
+Corners failed: 0
+Raw summary: /home/vscode/Desktop/OpenROAD-flow-scripts/flow/reports/sky130hd/vsdbabysoc/mcmm_all_fixed/corner_summary_raw.csv
+========================================
+===== MULTICORNER STA COMPLETE =====

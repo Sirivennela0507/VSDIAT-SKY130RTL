@@ -1,0 +1,13 @@
+OpenROAD v2.0-25794-g7cbd77e248 
+Features included (+) or not (-): +GPU +GUI +Python
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+METRIC_CORNER=ff_n40C_1v65
+SETUP_WNS_BEGIN
+worst slack max 6.6615
+SETUP_TNS_BEGIN
+tns max 0.0000
+HOLD_WNS_BEGIN
+worst slack min 0.2570
+HOLD_TNS_BEGIN
+tns min 0.0000
