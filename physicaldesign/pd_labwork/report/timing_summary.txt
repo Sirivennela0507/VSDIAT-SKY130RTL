@@ -1,0 +1,11 @@
+VSDBabySoC Post-route OpenSTA Timing Summary
+
+Commands:
+report_wns
+report_tns
+report_checks -path_delay max
+report_checks -path_delay min
+
+Observed:
+WNS max = 0.00
+TNS max = 0.00
