@@ -6,7 +6,7 @@
 
 📎1. PROJECT DIRECTORY Working directory:
 
-~/BabySoC_Simulation/assesments/25eg504h50 Files observed in the project:
+~/BabySoC_Simulation/assesments/25eg504h02 Files observed in the project:
 
 25eg504h02/ ├── rtl/ ├── tb/ │ └── tb.v ├── synthesized.v ├── pre_synth_sim.out └── dump.vcd During GLS debugging, a corrected local SKY130 model was also created:
 
