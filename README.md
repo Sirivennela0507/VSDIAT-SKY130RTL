@@ -20,13 +20,13 @@ https://drive.google.com/file/d/1iartx86IVbmfPBr7GEAHw4pcxKTcwL3u/view?usp=drive
 
 ## 📂 Repository Structure
 
-```text
 VSDIAT-SKY130RTL/
 ├── _RTL_Design_Workshop/
 ├── STA_all_corners/
 ├── physicaldesign/
 └── README.md
-🛠️ Topics Covered
+
+**🛠️ Topics Covered
 RTL Design: Digital design using Verilog HDL.
 
 RTL Synthesis: Understanding synthesis concepts and design implementation.
@@ -41,7 +41,7 @@ Physical Design: Learning physical implementation concepts and workflows.
 
 Open-Source EDA Tools: Exploring tools used in VLSI design and implementation.
 
-🎯 Project Objectives
+**🎯 Project Objectives
 Understand the digital design flow from RTL development to implementation.
 
 Explore RTL synthesis and timing analysis concepts.
@@ -52,7 +52,7 @@ Gain practical exposure to open-source VLSI design tools.
 
 Document workshop activities, implementation steps, and results.
 
-💻 Tools and Technologies
+**💻 Tools and Technologies
 Category
 
 Technology / Tools
@@ -77,7 +77,7 @@ Physical Design
 
 OpenROAD
 
-🚀 Getting Started
+**🚀 Getting Started
 Step 1: Clone the Repository
 
 bash
@@ -93,7 +93,7 @@ STA_all_corners/ — Static Timing Analysis across multiple timing corners.
 
 physicaldesign/ — Physical design-related files and implementation work.
 
-📚 References
+**📚 References
 VSDIAT 
 
 SkyWater SKY130 Open-Source PDK 
@@ -102,10 +102,10 @@ Yosys Open Synthesis Suite
 
 OpenROAD Project 
 
-🙏 Acknowledgements
+**🙏 Acknowledgements
 I would like to thank the VSDIAT team, mentors, and the open-source EDA community for their valuable educational resources and support in learning RTL design, static timing analysis, and VLSI physical design.
 
-👩‍💻 Author
+**👩‍💻 Author
 Sirivennela
 
 GitHub Repository: 
