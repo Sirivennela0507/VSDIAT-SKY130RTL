@@ -9,9 +9,7 @@ The project includes RTL design workshop materials, timing analysis across multi
 
 Watch the project demonstration to understand the workflow, implementation, and results.
 
-<!-- Add your demo video link below -->
-
-Demo Video: Watch Here
+https://drive.google.com/file/d/1iartx86IVbmfPBr7GEAHw4pcxKTcwL3u/view?usp=drive_link
 
 📂 Repository Structure
 
